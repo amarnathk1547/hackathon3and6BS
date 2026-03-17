@@ -26,5 +26,9 @@ RCA link: https://automate.browserstack.com/projects/BrowserStack+Samples/builds
 
 ### Notes
 * Public link sharing is also disbled hence sharing the above links and docs
+* Test Report for browserstack build #3.pdf
+* Test Report for browserstack build #7.pdf
+
+
 * Can't really run the tests on the mobile devices with the given license. facing this error
     `Error: browserType.connect: Error: Your free access to test on real devices has expired. You can upgrade to the Automate Mobile plan to test on real de`
